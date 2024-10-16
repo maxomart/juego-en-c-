@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1729039237 source:c:\users\presentacion\desktop\juego\main.cpp
+	"tau/tau.h"
+	"Pacman.h"
+
+1729034872 source:c:\users\presentacion\desktop\juego\src\gameboard.cpp
+	"GameBoard.h"
+
+1729034872 c:\users\presentacion\desktop\juego\include\gameboard.h
+
+1729034856 source:c:\users\presentacion\desktop\juego\src\ghost.cpp
+	"Ghost.h"
+
+1729034856 c:\users\presentacion\desktop\juego\include\ghost.h
+
+1729039237 source:c:\users\presentacion\desktop\juego\src\pacman.cpp
+	"Pacman.h"
+
+1729039327 c:\users\presentacion\desktop\juego\include\pacman.h
+	<string>
+
+1715350011 c:\users\presentacion\desktop\juego\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1715350011 c:\users\presentacion\desktop\juego\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1715350011 c:\users\presentacion\desktop\juego\tau\compilers.h
+
+1715350011 c:\users\presentacion\desktop\juego\tau\misc.h
+	<inttypes.h>
+
