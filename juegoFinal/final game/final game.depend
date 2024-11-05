@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1730761712 source:c:\users\joaco\desktop\juegofinal\final game\main.cpp
+	<allegro.h>
+	"nave.h"
+	"bala.h"
+	"enemigo.h"
+	<iostream>
+
+1730415088 c:\users\joaco\desktop\juegofinal\final game\include\nave.h
+	<allegro.h>
+
+1730472440 source:c:\users\joaco\desktop\juegofinal\final game\src\nave.cpp
+	"nave.h"
+	"bala.h"
+
+1730415381 c:\users\joaco\desktop\juegofinal\final game\include\bala.h
+	<allegro.h>
+
+1730415722 source:c:\users\joaco\desktop\juegofinal\final game\src\bala.cpp
+	"bala.h"
+	<allegro.h>
+
+1730418970 source:c:\users\joaco\desktop\juegofinal\final game\src\enemigo.cpp
+	"enemigo.h"
+
+1730418958 c:\users\joaco\desktop\juegofinal\final game\include\enemigo.h
+	<allegro.h>
+
